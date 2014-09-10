@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>za.co.felixsol.sf.gcode.instructions</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>nbproject</name>
+			<type>2</type>
+			<location>C:/Users/Toshiba/Documents/Cele/za.co.felixsol.sf.gcode.instructions/nbproject</location>
+		</link>
+		<link>
+			<name>za.co.felixsol.sf.gcode.instructions</name>
+			<type>2</type>
+			<location>E:/javagcodeutils-code-21-trunk/source/za.co.felixsol.sf.gcode.instructions</location>
+		</link>
+	</linkedResources>
+</projectDescription>
